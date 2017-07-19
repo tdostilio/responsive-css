@@ -1,0 +1,21 @@
+.main-menu {
+    background: lightyellow;
+    vertical-align: middle;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: left;
+    font-size: 2em;
+    width: 8%;
+}
+
+.menu-icon {
+    width: 40px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.transformed {
+    transform: scale(2, .5);
+}
+
